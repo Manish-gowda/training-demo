@@ -1,9 +1,9 @@
 # training-demo
-we learnt about version control system
-local version control system
-centerlized version control system
-distributed version control system
-what is git and git hub
-how to create repository
-how to configure user and email with git
+ 1. we learnt about version control system
+ 2. local version control system
+ 3. centerlized version control system
+ 4. distributed version control system
+ 5. what is git and git hub
+ 6. how to create repository
+ 7. how to configure user and email with git
 
